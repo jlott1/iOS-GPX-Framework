@@ -1,5 +1,5 @@
 PODS:
-  - iOS-GPX-Framework (0.0.2):
+  - iOS-GPX-Framework (0.0.3):
     - TBXML (~> 1.5)
   - TBXML (1.5)
 
