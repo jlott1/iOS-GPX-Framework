@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.screenshots  = "http://gpxframework.com/img/gpx_viewer.png", "http://gpxframework.com/img/gpx_logger.png"
   s.license      = 'MIT'
   s.author       = { "Watanabe Toshinori" => "t@flcl.jp" }
-  s.source       = { :git => "https://github.com/Pierre-Loup/iOS-GPX-Framework.git", :tag => s.version.to_s  }
+  s.source       = { :git => "https://github.com/jlott/iOS-GPX-Framework.git", :tag => s.version.to_s  }
   
   s.platform     = :ios
   s.ios.deployment_target = '6.0'
