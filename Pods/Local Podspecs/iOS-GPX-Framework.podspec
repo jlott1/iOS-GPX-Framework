@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.source_files = 'GPX'
+  s.prefix_header_file = '../Pods-iOS-GPX-Framework-prefix.pch'
   s.framework      = 'Foundation'
   s.ios.framework = 'UIKit'  
   s.dependency 'TBXML', '~> 1.5'
